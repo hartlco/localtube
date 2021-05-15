@@ -1,0 +1,5 @@
+feeds = [
+    "<YOUTUBE-RSS-FEED-URL"
+]
+
+download_path = "<PATH>"
